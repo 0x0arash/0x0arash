@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arash</h1>
-<p align="left"> <img src="https://github.com/3037d1cf-cf50-43cc-a6b8-d8a7834ba828" alt="Welcome to the Machine" />
+<p align="left"> <img src="https://raw.githubusercontent.com/0x0arash/0x0arash/refs/heads/main/assets/header.png" alt="Welcome to the Machine" />
 </p>
 <h3 align="center">I’ve been around the code block more times than I can count, diving into all sorts of projects and challenges—and I’m still just as curious, always looking to learn something new.</h3>
 
