@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arash</h1>
+<img src="https://github.com/3037d1cf-cf50-43cc-a6b8-d8a7834ba828" alt="Welcome to the Machine" />
 <h3 align="center">I’ve been around the code block more times than I can count, diving into all sorts of projects and challenges—and I’m still just as curious, always looking to learn something new.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x0arash&label=Profile%20views&color=0e75b6&style=flat" alt="0x0arash" /> </p>
